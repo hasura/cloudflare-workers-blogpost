@@ -31,7 +31,8 @@ By the end of it, we hope that you'll walk away with:
 
 ### Check out the Finished Product
 
-You can view the code and live frontend we'll be building, hooked up to Hasura and the CF Worker, here in your browser:
+**You can view the code and live frontend we'll be building, hooked up to Hasura and the CF Worker, here in your browser:**
+
 https://codesandbox.io/s/trusting-leakey-d4u4k?file=/src/App.tsx
 
 ## Initial CF Worker Scaffold
