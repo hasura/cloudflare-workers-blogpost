@@ -29,6 +29,8 @@ By the end of it, we hope that you'll walk away with:
 - The fundamental Hasura knowledge to build and be productive
 - A sense of accomplishment and motivation that will inspire you to take these skills, and build something awesome out of them
 
+> Note: You can also view this content on our blog, at: https://hasura.io/blog/building-applications-with-cloudflare-workers-and-hasura-graphql-engine/
+
 ### Check out the Finished Product
 
 **You can view the code and live frontend we'll be building, hooked up to Hasura and the CF Worker, here in your browser:**
